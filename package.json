@@ -1,0 +1,25 @@
+{
+  "name": "webpack-configuration",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrabeenSoreng/webpack-configurations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrabeenSoreng/webpack-configurations/issues"
+  },
+  "homepage": "https://github.com/PrabeenSoreng/webpack-configurations#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
