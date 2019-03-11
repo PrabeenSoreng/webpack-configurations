@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/PrabeenSoreng/webpack-configurations#readme",
   "devDependencies": {
+    "bootstrap": "^4.3.1",
+    "css-loader": "^2.1.1",
+    "style-loader": "^0.23.1",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3"
   }
